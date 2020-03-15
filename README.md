@@ -11,7 +11,7 @@ Helps with making English-Chinese Quizlet flashcards
 
 ## 背景
 
-Quizlet 建立学习集一个个查词改格式真的很麻烦。刚好在网上找到了txt版本的英汉词典，就用上了。
+Quizlet 建立学习集一个个查词改格式真的很麻烦。刚好在网上找到了txt版本的英汉词典(lexicon.txt)，就用上了。
 
 ## 安装
 
