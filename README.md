@@ -1,13 +1,7 @@
 # easy-wordlist
 
+辅助制作英语词汇Quizlet学习集。
 Helps with making English-Chinese Quizlet flashcards
-
-## 内容列表 CONTENT
-
-- [背景 BACKGROUND](#背景 BACKGROUND)
-- [安装 INSTALL](#安装 INSTALL)
-- [使用 USE](#使用 USE)
-
 
 ## 背景 BACKGROUND
 
